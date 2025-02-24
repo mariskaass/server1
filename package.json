@@ -6,9 +6,23 @@
   "scripts": {
     "test": "hello"
   },
-  "author": "",
+  "author": "me",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.21.2"
+    "dotenv": "^16.4.7",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "mongodb": "^6.13.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariskaass/server1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mariskaass/server1/issues"
+  },
+  "homepage": "https://github.com/mariskaass/server1#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
   }
 }
